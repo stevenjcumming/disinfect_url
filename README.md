@@ -1,5 +1,7 @@
 # DisinfectUrl
 
+[![Gem Version](https://badge.fury.io/rb/disinfect_url.svg)](https://badge.fury.io/rb/disinfect_url)
+
 This gem was _heavily_ influenced by Braintree's [sanitize-url](https://github.com/braintree/sanitize-url/tree/main)
 
 ## Installation
