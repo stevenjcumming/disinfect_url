@@ -12,7 +12,7 @@ gem 'disinfect_url'
 
 ### Requirements
 
-This gem requires Ruby 2.5+
+This gem requires Ruby 2.4+
 
 ### Basic Usage
 
